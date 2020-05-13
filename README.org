@@ -1,6 +1,6 @@
 Ref: https://starchild.gsfc.nasa.gov/docs/StarChild/questions/88constellations.html
 
-*  starts
+*  constellations
 ** Andromeda           (Princess of Ethiopia)
 ** Antlia              (Air pump)
 ** Apus                (Bird of Paradise)
