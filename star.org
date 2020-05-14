@@ -80,6 +80,7 @@ Ref: https://starchild.gsfc.nasa.gov/docs/StarChild/questions/88constellations.h
 ** Sextans             (Sextant)
 ** Taurus              (Bull)
 ** Telescopium         (Telescope)
+- [[https://arxiv.org/pdf/2005.02541.pdf][new finding on a black hole: possible visable to nake eye]]
 ** Triangulum          (Triangle)
 ** Triangulum Australe (Southern triangle)
 ** Tucana              (Toucan)
